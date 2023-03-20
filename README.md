@@ -4,7 +4,7 @@ Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
 
 #Source
 i clone this project from this :
-https://www.youtube.com/watch?v=B8Sx7wGiY-s&t=9368s
+https://www.youtube.com/watch?v=B8Sx7wGiY-s
 
 ## Features
 - Google/Guest Authentication
